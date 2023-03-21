@@ -7,6 +7,7 @@ I'm Snehlata 2nd year undergrad at MANIT Bhopal in the dpartment of Electrical E
 
 Currently i have uploaded ywo of my projects here
 
-1.Face mask detection using CNN
+1.Face mask detection using CNN<br >
 2.MNIST Digit classisification using NN
+<br />
 
